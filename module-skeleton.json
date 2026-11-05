@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-customer-data-platform-flutter",
+  "capabilityKey": "liberusoftware/module-crm-customer-data-platform",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_customer_data_platform_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/customer-data-platform.md",
+  "presentationPlan": "projects/crm/flutter/customer-data-platform.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
